@@ -1,0 +1,20 @@
+{
+    "name": "WebIntent",
+    "version": "4.0.0",
+    "description": "Web intents for Cordova",
+    "cordova": {
+        "id": "com.borismus.webintent",
+        "platforms": [
+            "android",
+            "ios"
+        ]
+    },
+    "license": "MIT",
+    "engines": {
+        "cordovaDependencies": {
+            "3.0.0": {
+                "cordova": ">100"
+            }
+        }
+    }
+}
