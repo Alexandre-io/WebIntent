@@ -1,6 +1,6 @@
 {
-    "name": "WebIntent",
-    "version": "4.0.0",
+    "name": "com.borismus.webintent",
+    "version": "4.0.1",
     "description": "Web intents for Cordova",
     "cordova": {
         "id": "com.borismus.webintent",
